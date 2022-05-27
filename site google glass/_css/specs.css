@@ -4,11 +4,13 @@ section#conteudo {
     margin: auto;
 }
 iframe#frame-spec {
-    width: 400px;
-    height: 280;
+    width: 430px;
+    height: 250px;
     border: none;
     overflow-x: hidden;
+    
 }
 iframe#frame-spec::-webkit-scrollbar{
-    display: none;
+ display: nome;
+    
 }
